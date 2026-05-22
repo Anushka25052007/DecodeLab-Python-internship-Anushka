@@ -205,7 +205,7 @@ Navigate to the project folder.
 Example:
 
 ```bash
-cd Expense-Tracker
+cd Project2
 ```
 
 ---
