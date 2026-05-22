@@ -15,7 +15,7 @@ The purpose of this repository is to practice:
 # Repository Structure
 
 ```text
-decodelabs-python-internship/
+Decodelabs-Python-internship-Anushka/
 │
 ├── README.md
 │
