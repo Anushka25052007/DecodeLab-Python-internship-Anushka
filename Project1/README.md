@@ -152,11 +152,12 @@ python project1-todo-list.py
 
 # Screenshots
 
-## output
-![Main Manu](Project1/project1-img1.png)
+## Main Menu Screenshot (Output)
+![Main Manu](project1-img1.png)
 ---
 
-![Task Table](Project1/project1-img2.png)
+## Task Table Screenshot (Output)
+![Task Table](project1-img2.png)
 ---
 
 # Author
