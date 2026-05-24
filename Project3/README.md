@@ -143,26 +143,10 @@ A@7xP!2qL#9mT$4z
 
 ---
 
-# Sample Output
+# Screenshots (Output)
 
-## Main Menu
 
-```text
-1. Generate Password
-2. Display Entropy
-3. Display Password Strength
-4. Exit
-```
-
----
-
-# Screenshots
-
-## Main Menu
-
-```md
 ![Main Menu](project3-img1.png)
-```
 
 ---
 
